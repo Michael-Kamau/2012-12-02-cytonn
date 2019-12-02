@@ -1,3 +1,3 @@
 <?php
-echo " This is the main index file for the website";
+echo "welcome to the firts file on the line of the data";
 ?>
